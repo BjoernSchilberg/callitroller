@@ -1,0 +1,21 @@
+{
+    "name": "callitroller",
+    "version": "1.0.0",
+    "description": "Calliope mini Neigungssteuerung für Calliope mini v3",
+    "dependencies": {
+        "core": "*",
+        "v3": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "targetVersions": {
+        "target": "7.1.31",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj"
+}
